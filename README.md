@@ -1,4 +1,4 @@
-# 22岁了，人生三分之一过去了刚取消托管的小朋友。
+# 22岁了，人生三分之一过去了---刚取消托管的小朋友。
 scene classification 场景分类
 
 在https://github.com/GKalliatakis/Keras-VGG16-places365 基础上
