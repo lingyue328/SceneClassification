@@ -7,7 +7,7 @@ Download model from the urls, and ready to go.
 Result is a txt file， top 5 classification of each picture.  
 Use classify.py can move pics to its category folder.  
   
-Others:
+Other files:  
 test.py cut the video based on critical frame.  
 pyscene.py Extract all frames from a video.  
 places365 Folder contains files to do scene classification.  
@@ -27,7 +27,7 @@ classify.py Move pics to its folder based on classification result.
     
 QAQ 找了好久场景分类的与训练模型
   
-其它文件：
+其它文件：  
 test.py 是根据关键帧密度剪切视频    
 pyscene.py 是提取视频中所有的场景图片  
 places365 是进行场景分类的文件夹  
