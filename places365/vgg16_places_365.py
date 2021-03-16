@@ -253,7 +253,7 @@ if __name__ == '__main__':
     lines = read_file.readlines()
     file = open("result.txt",'a+')
     num = 0
-    for k in lines[100:160]:
+    for k in lines:
         TEST_IMAGE_URL = k[:-1]
 
         image = Image.open(TEST_IMAGE_URL)
