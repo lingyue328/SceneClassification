@@ -33,3 +33,8 @@ pyscene.py 是提取视频中所有的场景图片
 places365 是进行场景分类的文件夹  
 classify.py 是根据识别的结果将图片移动到对应的文件夹中  
 
+  
+全部配置好的文件：  
+链接：https://pan.baidu.com/s/1iXLX104YwT249fyMLVSFnw   
+提取码：xllz   
+  
